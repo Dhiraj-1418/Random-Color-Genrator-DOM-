@@ -21,7 +21,8 @@ function randomColor(){
     const randomColorCode="#"+ randomNum.toString(16);
     body.style.backgroundColor=randomColorCode;
     document.getElementById("preBox").style.backgroundColor=randomColorCode;
-    randomCode.innerHTML=randomColorCode
+    randomCode.innerHTML=randomColorCode;
+        coppied.innerHTML="";
  
 }
 
