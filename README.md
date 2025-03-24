@@ -28,12 +28,6 @@ Welcome to the **Random Color Generator** web application! This project is a sim
 ## 📷 Preview
 ![Random Color Generator Preview]
 
-https://github.com/user-attachments/assets/5ba673d1-77e5-4a85-b24f-d4bb6491b67b
-
-
-
-
-
 https://github.com/user-attachments/assets/ecba592e-562c-49b2-a0d4-76d570f066f8
 
 
