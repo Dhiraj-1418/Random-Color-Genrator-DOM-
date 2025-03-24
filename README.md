@@ -26,7 +26,12 @@ Welcome to the **Random Color Generator** web application! This project is a sim
 - **JavaScript (DOM Manipulation)** - Generating and displaying random colors
 
 ## 📷 Preview
-![Random Color Generator Preview](<video width="320" height="240" controls> <source src="pre.mp4" type="video/mp4"></video>) *(Replace with actual screenshot if available)*
+![Random Color Generator Preview]
+
+
+
+https://github.com/user-attachments/assets/ecba592e-562c-49b2-a0d4-76d570f066f8
+
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute by improving the UI, adding new features, or optimizing the code. Submit a pull request with your changes!
