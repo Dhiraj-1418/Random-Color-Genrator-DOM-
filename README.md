@@ -26,7 +26,7 @@ Welcome to the **Random Color Generator** web application! This project is a sim
 - **JavaScript (DOM Manipulation)** - Generating and displaying random colors
 
 ## 📷 Preview
-![Random Color Generator Preview](preview.png) *(Replace with actual screenshot if available)*
+![Random Color Generator Preview](pre.mp4) *(Replace with actual screenshot if available)*
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute by improving the UI, adding new features, or optimizing the code. Submit a pull request with your changes!
